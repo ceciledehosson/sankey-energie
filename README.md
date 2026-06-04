@@ -73,4 +73,5 @@ sankey-energie/
 
 ## Licence
 
-Licence à préciser.
+Ce projet est diffusé sous licence MIT. Voir le fichier `LICENSE`.
+
