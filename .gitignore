@@ -1,0 +1,17 @@
+# Environnements Python
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers Streamlit locaux
+.streamlit/secrets.toml
+
+# Fichiers temporaires
+*.log
+*.tmp
